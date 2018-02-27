@@ -3,3 +3,6 @@ publications/
 *.pyc
 .idea
 *__pycache__
+*.mypy_cache/
+*data/
+*.json
