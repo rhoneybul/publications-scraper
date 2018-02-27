@@ -2,3 +2,4 @@
 publications/
 *.pyc
 .idea
+*__pycache__

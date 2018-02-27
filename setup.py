@@ -11,5 +11,11 @@ setup(
     license="BSD",
     keywords="uwa publications scraper",
     packages=['get_publications'],
-    dependencies=['bs4']
+    install_requires=[
+        'bs4',
+        'lxml',
+        'requests',
+        'enforce',
+        'numpy'
+    ]
 )
